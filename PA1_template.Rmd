@@ -4,6 +4,8 @@ date: "11/04/2014"
 output: html_document
 ---
  
+## Peer Assessment #1
+
 This analysis is for the first *Peer Assessment* project in JHU's online "Reproducible Research" course. The project treats data measured from personal movement monitoring devices. Specifically, the data contains step counts, over 5-minute intervals, recorded between October 1 and November 30, 2012.
 
 #### Loading and Preprocessing
